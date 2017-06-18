@@ -1,0 +1,10 @@
+[0618/195423:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0618/195938:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0618/200057:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0618/200241:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0618/200310:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0618/200539:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0618/200724:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0618/200839:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0618/200917:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0618/200951:ERROR:file_io.cc(30)] read: expected 4, observed 0
