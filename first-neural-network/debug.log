@@ -13,3 +13,4 @@
 [0704/105956:ERROR:file_io.cc(30)] read: expected 4, observed 0
 [0704/110015:ERROR:file_io.cc(30)] read: expected 4, observed 0
 [0704/110041:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/095651.181:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
